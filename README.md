@@ -1,2 +1,5 @@
 # deep-learning-practice
-This folder contains my deep learning practice from online courses and public datasets.
+A repository with notebooks I have created while trying to improve my skills in neural networks, ranging from online course materials and self-exploration with various concepts from public datasets.
+
+
+
